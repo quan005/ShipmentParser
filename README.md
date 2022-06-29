@@ -155,3 +155,20 @@ Tests are written in [Jest](https://jestjs.io/). To run unit tests, use:
 ```
 npm run test
 ```
+
+## Notes
+
+```
+I went with a OOP approach instead of a top down approach, Mainly for Data Redundancy and code re-usability.
+
+Usaully I use a TDD approach when coding, but for time-sake, everything was tested manually for errors.
+
+```
+
+### Improvements
+
+```
+1.  To use a hashtable to store the individual shipments with the shipment number as the key,
+    instead of using an array after they are parsed. This would be more effective when it comes to
+    accessing a shipment.
+```

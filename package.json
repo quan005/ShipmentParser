@@ -1,0 +1,23 @@
+{
+  "name": "shipmentparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quan005/ShipmentParser.git"
+  },
+  "author": "DaQuan Freeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quan005/ShipmentParser/issues"
+  },
+  "homepage": "https://github.com/quan005/ShipmentParser#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
